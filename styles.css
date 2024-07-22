@@ -8,6 +8,8 @@
   padding: 10px;
   border: 1px solid #ddd;
   background-color: #fff;
+	  margin-bottom: 20px;  
+
 }
 
 .text {
@@ -18,8 +20,9 @@
 
 .author {
   text-align: right;
-	  font-family: "Dancing Script", cursive;
 	margin-top:-40px;
 	font-weight:bold;
+	  font-style: italic; 
+
 
 }
